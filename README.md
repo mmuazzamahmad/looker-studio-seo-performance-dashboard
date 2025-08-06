@@ -1,11 +1,6 @@
 # Interactive SEO Performance Dashboard in Looker Studio
 
-
 ![Dashboard Screenshot](https://raw.githubusercontent.com/mmuazzamahmad/looker-studio-seo-performance-dashboard/main/Looker%20Studio%20-%20SEO%20Analytics%20Dashboard%20-%20Sample%20-%20Project%20Portfolio%20-%20Muhammad%20Muazzam%20Ahmad%20-%20Github.png)
-
-
-
-![Dashboard Screenshot](https://github.com/mmuazzamahmad/looker-studio-seo-performance-dashboard/main/Looker%20Studio%20-%20SEO%20Analytics%20Dashboard%20-%20Sample%20-%20Project%20Portfolio%20-%20Muhammad%20Muazzam%20Ahmad%20-%20Github.png)
 
 ## 🚀 Project Overview
 
